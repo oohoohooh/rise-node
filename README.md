@@ -1,5 +1,12 @@
 ## Rise-node version 2.x
 
+Team
+----
+Lokesh --> Shill
+Fake CEO Guy --> Thief
+
+
+
 # RISE
 [![Build Status](https://travis-ci.org/RiseVision/rise-node.svg?branch=lerna)](https://travis-ci.org/RiseVision/rise-node) [![Coverage Status](https://coveralls.io/repos/github/RiseVision/rise-node/badge.svg?branch=development)](https://coveralls.io/github/RiseVision/rise-node?branch=development)
 
